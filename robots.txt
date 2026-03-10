@@ -1,0 +1,7 @@
+# Robots.txt for valencemwigani.tech
+User-agent: *
+Allow: /
+
+Sitemap: https://valencemwigani.tech/sitemap.xml
+
+Sitemap: https://valencemwigani.tech/sitemap.xml
